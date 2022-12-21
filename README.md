@@ -1,15 +1,36 @@
+
 # Money-Tracker-WebApp
 
-A simple web application to record daily expenses made using React library
+A simple web application to record daily expenses made using React library.
 
-## How to Use?
+## Run Locally
 
-Install the needed modules with npm
+Clone the project
 
+```bash
+  git clone https://github.com/SaddamAnnais/Money-Tracker-WebApp.git
 ```
+
+Go to the project directory
+
+```bash
+  cd Money-Tracker-WebApp
+```
+
+Install dependencies
+
+```bash
   npm install
 ```
-Run the web appp once the needed modules installed
+
+Start the server
+
+```bash
+  npm run start
 ```
-  npm start
-```    
+
+
+## Preview
+
+![App Screenshot](https://raw.githubusercontent.com/SaddamAnnais/Money-Tracker-WebApp/main/public/Screenshot%202022-12-21%20220532.png)
+
