@@ -1,1 +1,15 @@
-[README.md](https://github.com/SaddamAnnais/Money-Tracker-WebApp/files/10278726/README.md)
+# Money-Tracker-WebApp
+
+A simple web application to record daily expenses made using React library
+
+## How to Use?
+
+Install the needed modules with npm
+
+```
+  npm install
+```
+Run the web appp once the needed modules installed
+```
+  npm start
+```    
