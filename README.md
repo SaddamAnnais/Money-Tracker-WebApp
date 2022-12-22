@@ -1,5 +1,5 @@
 
-# Money-Tracker-WebApp
+# Expense-Tracker-WebApp
 
 A simple web application to record daily expenses made using React library.
 
